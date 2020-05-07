@@ -10,9 +10,9 @@ user will be asked to select scholarship as per the eligibility required, and th
 recorded in the database. A notification is sent to the user as soon as the record is
 being saved.
 
-3.1.2 Software Configuration:
+<b>3.1.2 Software Configuration:<b><br>
 
-Database :MySql
-Server :Xampp
-Front End : HTML,CSS,JavaScript
-Back End : PHP
+<b>Database :MySql<br>
+<b>Server :Xampp<br>
+<b>Front End : HTML,CSS,JavaScript<br>
+<b>Back End : PHP
