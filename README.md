@@ -16,3 +16,6 @@ being saved.
 👉<b>Server :Xampp<br>
 👉<b>Front End : HTML,CSS,JavaScript<br>
 👉<b>Back End : PHP
+
+HomePage<br>
+![HomePage](https://github.com/deepakkapse/ScholarshipPortal-dbms-project/blob/master/Screenshots/Screenshot%20(10).png)
