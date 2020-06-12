@@ -12,7 +12,7 @@ being saved.
 
 <b>3.1.2 Software Configuration:<b><br>
 
- 👉 <b>Database :MySql<br>
+ 👉  <b>Database :MySql<br>
  👉 <b>Server :Xampp<br>
  👉 <b>Front End : HTML,CSS,JavaScript<br>
  👉 <b>Back End : PHP
