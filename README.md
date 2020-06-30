@@ -2,7 +2,7 @@
 
 An Online Scholarship Portal is an online platform where student can fill their
 details in an application on the go and also searches for scholarships to apply easily.
-
+<br>
 At Admin page one can upload the scholarship details available to apply given by the
 donor organisations so that they can work upon the suggestions and improvement can
 be done on the project, also they can upload scholarship awardee details. Usually, the
