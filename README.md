@@ -8,7 +8,7 @@ donor organisations so that they can work upon the suggestions and improvement c
 be done on the project, also they can upload scholarship awardee details. Usually, the
 user will be asked to select scholarship as per the eligibility required, and the same is
 recorded in the database. A notification is sent to the user as soon as the record is
-being saved..
+being saved...
 
 <b>3.1.2 Software Configuration:<b><br>
 
