@@ -26,8 +26,8 @@ background-image: url("yy.jpg");
 
 	    <h2 align="center"><font color="#800000" size="20" face="segeo print">CONTACT US</font> </h2>
 		<P align="center"> Vidhya Scholar<br>
-		                   Biradar Swati 9834553712<br>
-		                   Deepak K  8970551466<br>
+		                   Biradar Swati <br>
+		                   Deepak K 8970551466 <br>
 						
 						   thankyou<br>
 						  
